@@ -1,4 +1,4 @@
-# Trip Planner
+# Travel Planner AI
 
 A simple Streamlit Trip Planner application integrated with Mistral AI.
 
